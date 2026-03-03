@@ -7,7 +7,7 @@
 ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
 -->
 
-<h1 align="center">Hi there, I'm [YOUR NAME] 👋</h1>
+<h1 align="center">Hi there, I'm Abdullah Ahmad 👋</h1>
 
 <h3 align="center">
   <code>learn to break the system.</code>
