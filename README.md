@@ -25,7 +25,7 @@
   <a href="[YOUR_TWITTER_URL]">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
-  <a href="[YOUR_PORTFOLIO_URL]">
+  <a href="https://alfan.link/abdullahahmad.me">
     <img src="https://img.shields.io/badge/portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:imuhammadahmad645@gmail.com">
