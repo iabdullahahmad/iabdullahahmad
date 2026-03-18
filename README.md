@@ -28,7 +28,7 @@
   <a href="https://alfan.link/abdullahahmad.me">
     <img src="https://img.shields.io/badge/portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:imuhammadahmad645@gmail.com">
+  <a href="mailto:#">
     <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
