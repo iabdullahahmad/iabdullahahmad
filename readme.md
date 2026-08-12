@@ -15,6 +15,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=iabdullahahmad&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
+
+###
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
   <img width="12" />
@@ -33,9 +39,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=iabdullahahmad&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
 
-
-###
