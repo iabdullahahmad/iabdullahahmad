@@ -15,7 +15,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=iabdullahahmad&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
